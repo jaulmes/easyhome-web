@@ -3,7 +3,7 @@ import './how_it_works_website.css';
 
 const HowItWorksWebsite = () => {
   return (
-    <section className="how-it-works-website">
+    <section className="how-it-works-website fade-in-section">
       <h2>Comment ça marche</h2>
       <div className="steps">
         <div className="step">

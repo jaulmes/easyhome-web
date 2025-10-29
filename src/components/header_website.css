@@ -8,7 +8,7 @@
 }
 
 .logo-container .logo {
-  height: 50px;
+  height: 70px;
 }
 
 .nav-links {
@@ -21,4 +21,9 @@
   text-decoration: none;
   color: #4285F4;
   font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #0F9D58;
 }
