@@ -2,13 +2,25 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
+  padding: 20px 40px;
   background-color: #ffffff;
   border-bottom: 1px solid #e7e7e7;
 }
 
 .logo-container .logo {
-  height: 70px;
+  height: 120px;
+}
+
+.search-container {
+  flex-grow: 1;
+  margin: 0 40px;
+}
+
+.search-container input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
 }
 
 .nav-links {
@@ -19,11 +31,11 @@
 
 .nav-links a {
   text-decoration: none;
-  color: #4285F4;
+  color: #34A853;
   font-weight: bold;
   transition: color 0.3s ease;
 }
 
 .nav-links a:hover {
-  color: #0F9D58;
+  color: #4285F4;
 }
