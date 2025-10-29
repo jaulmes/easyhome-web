@@ -1,12 +1,13 @@
 .why-choose-easyhome-website {
   padding: 50px 20px;
   text-align: center;
-  background-color: #e8f5e9;
+  background-color: #f8f9fa; /* Lighter, neutral background */
 }
 
 .why-choose-easyhome-website h2 {
   font-size: 2.5rem;
   margin-bottom: 50px;
+  color: #4285F4; /* Blue from logo */
 }
 
 .features-container {
@@ -17,4 +18,8 @@
 
 .feature {
   max-width: 300px;
+}
+
+.feature h3 {
+    color: #34A853; /* Green from logo */
 }

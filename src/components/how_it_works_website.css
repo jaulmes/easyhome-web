@@ -1,11 +1,13 @@
 .how-it-works-website {
   padding: 50px 20px;
   text-align: center;
+  background-color: #f8f9fa; /* Light background */
 }
 
 .how-it-works-website h2 {
   font-size: 2.5rem;
   margin-bottom: 50px;
+  color: #4285F4; /* Blue from logo */
 }
 
 .steps {
@@ -21,4 +23,5 @@
 .step h3 {
   font-size: 1.5rem;
   margin-bottom: 10px;
+  color: #34A853; /* Green from logo */
 }

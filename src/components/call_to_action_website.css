@@ -7,6 +7,7 @@
 .call-to-action-website h2 {
   font-size: 2.5rem;
   margin-bottom: 30px;
+  color: #4285F4; /* Blue from logo */
 }
 
 .cta-buttons {
@@ -21,12 +22,21 @@
   text-decoration: none;
   border-radius: 5px;
   font-weight: bold;
+  transition: background-color 0.3s ease;
 }
 
 .cta-button:nth-child(1) {
-  background-color: #4285F4;
+  background-color: #4285F4; /* Blue from logo */
+}
+
+.cta-button:nth-child(1):hover {
+  background-color: #3aa153; /* Darker Green from logo */
 }
 
 .cta-button:nth-child(2) {
-  background-color: #34A853;
+  background-color: #34A853; /* Green from logo */
+}
+
+.cta-button:nth-child(2):hover {
+  background-color: #5a9bf5; /* Lighter Blue from logo */
 }

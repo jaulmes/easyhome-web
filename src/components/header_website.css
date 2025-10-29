@@ -3,8 +3,8 @@
   justify-content: space-between;
   align-items: center;
   padding: 20px 40px;
-  background-color: #ffffff;
-  border-bottom: 1px solid #e7e7e7;
+  background-color: #f8f9fa; /* Lighter background */
+  border-bottom: 1px solid #dee2e6; /* Lighter border */
 }
 
 .logo-container .logo {
@@ -31,11 +31,11 @@
 
 .nav-links a {
   text-decoration: none;
-  color: #34A853;
+  color: #4285F4; /* Blue from logo */
   font-weight: bold;
   transition: color 0.3s ease;
 }
 
 .nav-links a:hover {
-  color: #4285F4;
+  color: #34A853; /* Green from logo */
 }

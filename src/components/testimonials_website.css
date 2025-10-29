@@ -6,6 +6,7 @@
 .testimonials-website h2 {
   font-size: 2.5rem;
   margin-bottom: 50px;
+  color: #4285F4; /* Blue from logo */
 }
 
 .testimonials-container {
@@ -15,8 +16,14 @@
 }
 
 .testimonial-card {
-  border: 1px solid #e7e7e7;
+  border: 1px solid #dee2e6; /* Lighter border */
   border-radius: 5px;
   padding: 20px;
   max-width: 400px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial-card h4 {
+    color: #34A853; /* Green from logo */
 }

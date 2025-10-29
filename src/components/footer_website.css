@@ -1,7 +1,8 @@
 .footer-website {
   text-align: center;
   padding: 20px;
-  background-color: #f8f9fa;
-  border-top: 1px solid #e7e7e7;
+  background-color: #343a40; /* Dark background */
+  color: #ffffff; /* White text */
+  border-top: 3px solid #4285F4; /* Blue border from logo */
   margin-top: auto;
 }
