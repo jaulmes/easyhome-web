@@ -5,6 +5,7 @@
   padding: 20px 40px;
   background-color: #f8f9fa; /* Lighter background */
   border-bottom: 1px solid #dee2e6; /* Lighter border */
+  height: 50px;
 }
 
 .logo-container .logo {
