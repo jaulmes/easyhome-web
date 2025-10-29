@@ -3,7 +3,7 @@ import './recent_announcements_website.css';
 
 const RecentAnnouncementsWebsite = () => {
   return (
-    <section className="recent-announcements-website">
+    <section className="recent-announcements-website fade-in-section">
       <h2>Annonces récentes</h2>
       {/* Placeholder for recent announcements */}
     </section>

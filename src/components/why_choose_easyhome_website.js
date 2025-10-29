@@ -3,7 +3,7 @@ import './why_choose_easyhome_website.css';
 
 const WhyChooseEasyHomeWebsite = () => {
   return (
-    <section className="why-choose-easyhome-website">
+    <section className="why-choose-easyhome-website fade-in-section">
       <h2>Pourquoi choisir EasyHome</h2>
       {/* Placeholder for why choose easyhome */}
     </section>
