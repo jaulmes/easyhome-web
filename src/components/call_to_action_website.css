@@ -1,0 +1,32 @@
+.call-to-action-website {
+  padding: 50px 20px;
+  text-align: center;
+  background-color: #f8f9fa;
+}
+
+.call-to-action-website h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.cta-button {
+  padding: 15px 30px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.cta-button:nth-child(1) {
+  background-color: #4285F4;
+}
+
+.cta-button:nth-child(2) {
+  background-color: #0F9D58;
+}
