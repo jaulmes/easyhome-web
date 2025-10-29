@@ -7,3 +7,21 @@
   font-size: 2.5rem;
   margin-bottom: 50px;
 }
+
+.announcements-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.announcement-card {
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 300px;
+}
+
+.announcement-card img {
+  width: 100%;
+  border-radius: 5px;
+}

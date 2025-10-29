@@ -8,3 +8,13 @@
   font-size: 2.5rem;
   margin-bottom: 50px;
 }
+
+.features-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.feature {
+  max-width: 300px;
+}

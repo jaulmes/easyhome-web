@@ -1,5 +1,4 @@
 .hero-section {
-  background-image: url('../image.jpg');
   background-color: #e3f2fd;
   background-size: cover;
   background-position: center;
@@ -8,7 +7,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: #efe3e3;
+  color: #333;
 }
 
 .hero-content h1 {
